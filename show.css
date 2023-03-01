@@ -140,15 +140,18 @@ text-align: center;
     color: white ;
     margin-top: 44px;
 }
+.premier .cards{
+    margin-left: 60px;
+}
 .container h2{
     margin-right: 1111px;
 
 }
 .footer{
-    background-color: black;
+    background-color: rgb(48, 47, 47);
 margin-top: 10px;
 padding-top: 10px;
-    /* height: 100px; */
+    height: 1070px;
 }
 /* .footer img
 /* {
@@ -181,8 +184,8 @@ padding-top: 10px;
 } */
 .non{
     display:flex;
-    
-    color: aliceblue;
+    height: 36px;
+ color: aliceblue;
     justify-content: space-between;
 }
 .non button{
@@ -192,4 +195,57 @@ padding-top: 10px;
 }
 .non h5{
     margin-left: 20px;
+}
+.customer{
+    background-color: rgb(54, 53, 53);
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+
+}
+.customer i{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.customer p{
+    padding-top: 30px;
+}
+
+.customer .help{
+    padding-right: 90px;
+}
+.footer .icon{
+    display: flex;
+    margin-left:1130px;
+    margin-top: 140px;
+        height: 131px;
+
+}
+.icon i{
+    color: rgb(111, 109, 109);
+    size:100px ;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-left: 30px;
+    
+}
+hr{
+    margin-top: 75px;
+   
+}
+.footimg img{
+    width: 150px;
+    margin-left: 1350px;
+}
+.list1{
+    display: flex;
+    justify-content: center;
+    justify-content:space-evenly;
+    color: rgb(86, 84, 84);
+
+}
+.list1 p{
+    /* margin-right: 50px; */
+    font-size: 30px;
 }
