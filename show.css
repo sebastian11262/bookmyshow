@@ -217,7 +217,7 @@ padding-top: 10px;
 }
 .footer .icon{
     display: flex;
-    margin-left:1130px;
+    margin-left:500px;
     margin-top: 140px;
         height: 131px;
 
@@ -236,7 +236,7 @@ hr{
 }
 .footimg img{
     width: 150px;
-    margin-left: 1350px;
+    margin-left: 606px;
 }
 .list1{
     display: flex;
@@ -247,5 +247,5 @@ hr{
 }
 .list1 p{
     /* margin-right: 50px; */
-    font-size: 30px;
+    font-size: 10px;
 }
